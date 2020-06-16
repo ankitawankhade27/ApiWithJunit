@@ -219,3 +219,10 @@ public class TwelveAPITest extends ApiWithJunitApplicationTests
 		assertEquals(200, status);
 	}
 }
+
+
+
+
+
+
+
